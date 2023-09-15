@@ -1,0 +1,21 @@
+* {
+  border: solid 1px green;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+}
+
+.logo {
+  height: 50px;
+  width: 100px;
+}
+
+.section-dropdowns {
+  display: flex;
+}
+
+.section-dropdown {
+  padding: 10px 20px;
+}
